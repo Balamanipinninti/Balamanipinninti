@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @Balamani pinninti
-- 👀 I’m interested in Data Analysis, Bussiness Analysis
-- 🌱 I’m currently learning Python and SQL,Power BI
-- 💞️ I’m looking to collaborate on developer and currently looking for an Data analyst, Bussiness analyst
-- 📫 How to reach me? Mail ID:@balamanipinninti7@gmail.com and linkdin balamani pinninti
+👋 Hi, I’m @balamanipinninti
+
+👀 I’m interested in Data Analytics
+
+📒 I'm skilled in Excel, Power BI, SQL, Python
+
+👨‍💻 Take a look at the projects that I did by visiting my Portfolio
+
+💞️ I’m looking to collaborate on Data Analytics and currently looking for an entry-level Data Analyst Role.
+
+📬 How to reach me?
+
+🔗 <a href="https://www.linkedin.com/in/balamani-pinninti7/" target="_blank">LinkedIn</a>
+
+📧 <a href="mailto:balamanipinninti7@gmail.com">Email Me</a>
   
 
 <!---
