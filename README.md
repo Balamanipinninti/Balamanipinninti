@@ -12,7 +12,7 @@
 
 🔗 <a href="https://www.linkedin.com/in/balamani-pinninti7/" target="_blank">LinkedIn</a>
 
-📧 mailto:balamanipinninti7@gmail.com
+📧 Email: balamanipinninti7@gmail.com
 
 
 
