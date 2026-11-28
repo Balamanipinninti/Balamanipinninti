@@ -1,8 +1,8 @@
-👋 Hi, I’m @balamanipinninti
+👋 Hi, I’m @Balamani Pinninti
 
 👀 I’m interested in Data Analytics
 
-📒 I'm skilled in Excel, Power BI, SQL, Python
+📒 I'm skilled in Excel, Google Sheets, Power BI, SQL, Python
 
 👨‍💻 Take a look at the projects that I did by visiting my Portfolio
 
